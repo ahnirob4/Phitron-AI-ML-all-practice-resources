@@ -15,6 +15,9 @@
     
 # ______________________________________________________________
 
-n = int(input())
-number = list(map(int, input(n).split()))
-print(number)
+# n = int(input())
+# number = list(map(int, input(n).split()))
+# print(number)
+
+
+
