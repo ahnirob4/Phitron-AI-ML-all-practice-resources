@@ -1,0 +1,3 @@
+Total number of line: 10
+Total number of word: 136
+Total number of character: 561
